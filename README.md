@@ -31,12 +31,21 @@ See your final score after completing the quiz.
 
 # File Overview
 CS1530FinalSubmission.drawio.png
+
   -UML Deployment Diagram
+  
   -Tech Stack and Description
+  
 CS1530_FinalSubmission.java
+
   -Final codebase
+  
 Final Submission [CS1530].pdf
+
   -Step 1: Identify Roles
+  
   -Step 2: Create Product Backlog
+  
   -Step 3: Perform 2 Sprints
+  
   -Progress Summary (Main Product Backlog Items and Final Increment)
