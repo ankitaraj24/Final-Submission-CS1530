@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T21:09:22.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Ojq85utxK2znIF5dN5U7" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T21:09:43.427Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="VFXt2D_ZJQGuFolYfv5t" version="22.1.7" type="github">
   <diagram name="Page-1" id="MhAsgq_ErUVMIStynTs7">
     <mxGraphModel dx="2538" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,10 +76,10 @@
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="whKIB__n_q5SJGv_XpIv-27" value="Artifacts" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" y="860" width="290" height="110" as="geometry" />
+          <mxGeometry x="260" y="860" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="whKIB__n_q5SJGv_XpIv-28" value="-Product Backlog&lt;br&gt;-Sprint Backlog&lt;br&gt;-Potentially Shippable&amp;nbsp;Product Increment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="whKIB__n_q5SJGv_XpIv-27" vertex="1">
-          <mxGeometry x="-60" y="30" width="350" height="70" as="geometry" />
+          <mxGeometry x="-40" y="30" width="350" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
