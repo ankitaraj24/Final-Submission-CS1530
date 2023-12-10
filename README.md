@@ -1,7 +1,7 @@
 # Final-Submission-CS1530
 Coding Challenge Game
 
-Welcome to the Coding Quiz Game! This simple game allows users of all skill levels to practice and improve their coding skills in a variety of programming languages!2
+Welcome to the Coding Quiz Game! This simple game allows users of all skill levels to practice and improve their coding skills in a variety of programming languages!
 
 Table of Contents:
 
@@ -14,12 +14,14 @@ Adding Questions
 
 **Prerequisites
 To run the Coding Quiz Game, you need to have Java installed on your machine.
+No prior coding knowledge necessary!
 
 **How to Play
 
   User Authentication
-Run the game by following the installation steps.
+Sign up by creating your unique username and password.
 Enter your username and password when prompted.
+
   Quiz Challenge Gameplay
 Choose a programming language category (e.g., Java, Python, C, C++).
 Select a difficulty level (e.g., Beginner, Intermediate, Advanced).
